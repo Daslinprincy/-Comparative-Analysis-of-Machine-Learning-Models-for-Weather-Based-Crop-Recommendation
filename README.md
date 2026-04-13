@@ -1,0 +1,2 @@
+# -Comparative-Analysis-of-Machine-Learning-Models-for-Weather-Based-Crop-Recommendation
+This research presents a data-driven crop recommendation system using advanced machine learning models including XGBoost, Random Forest, and Artificial Neural Networks (ANN). The system analyzes key environmental parameters such as temperature, humidity, rainfall, and soil conditions to suggest the most suitable crops for cultivation.
